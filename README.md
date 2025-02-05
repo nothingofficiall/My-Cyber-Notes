@@ -1,5 +1,7 @@
 # PY Script for checking if Magic number Matches Extension of the file
 
+# You can also use Script Updated by Chatgpt to make it shorter !!
+
 # This is Before Changing the extension (Before it was .png) 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59070848-1d7b-4131-bb02-c6278afdeba5" />
 
